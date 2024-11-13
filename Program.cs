@@ -25,7 +25,7 @@
       char type = char.Parse(data.Substring(data.Length - 1, 1)); // Pega o último caractere da string
       int time = int.Parse(data.Substring(0, data.Length - 1)); // Pega todos os caracteres menos o último
 
-      Console.WriteLine("Tempo progressivo ou regressivo? (P/R)");
+      Console.WriteLine("Progressive or regressive time? (P/R)");
       char progress = char.Parse((Console.ReadLine() ?? "").ToLower());
 
       if (progress == 'p')
