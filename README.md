@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## O que é o StopWatch?
-A ideia principal so StopWatch é ser um cronômetro com a opção de contagem em segundos, minutos e horas, de forma progressiva e regressiva.
+A ideia principal do StopWatch é ser um cronômetro com a opção de contagem em segundos, minutos e horas, de forma progressiva e regressiva.
 
 ## Pré-requisitos
 - .NET
